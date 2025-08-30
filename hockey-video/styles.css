@@ -1,0 +1,30 @@
+#video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+}
+
+iframe {
+    width: 80vw;
+    aspect-ratio: 16 / 9;
+    border: 20px solid black;
+}
+
+#top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 20vh;
+    width: 20vw;
+    background-color: #0071FF;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 60%;
+    cursor: pointer;
+}

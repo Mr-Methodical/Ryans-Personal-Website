@@ -1,0 +1,27 @@
+HTML tags (10):
+ 1. meta
+ 2. h1
+ 3. blockquote
+ 4. footer
+ 5. div
+ 6. img
+ 7. thead
+ 8. iframe
+ 9. th
+ 10. tb
+
+ CSS Properties (5):
+ 1. aspect-ratio
+ 2. width
+ 3. max-width
+ 4. font-size
+ 5. height
+
+Brief Description of Javascript and Bootstrap:
+I used Bootstrap for my quote on my homepage, and I used Javascript to make my webpage more dynamic.
+Specifically, js helped me to go between pages and to allow my buttons to pop when hovered over.
+One of my favorite features was how I got the left image to zoom in when a mouse hovers over it.
+
+Side note:
+I also learned CSS flexbox, and it was quite helpful in formatting my homepage (my old folder shows it w/out, and it made it way less responsive)
+

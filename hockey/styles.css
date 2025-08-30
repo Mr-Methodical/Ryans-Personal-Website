@@ -1,0 +1,48 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%
+}
+
+td, th {
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:hover {
+    color: white;
+    background-color: black;
+}
+
+#top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 20vh;
+    width: 20vw;
+    background-color: #0071FF;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 60%;
+    cursor: pointer;
+}
+
+#text {
+    height: 20vh;
+    width: 20vw;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: green;
+}
