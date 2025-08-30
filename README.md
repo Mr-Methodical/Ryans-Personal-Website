@@ -75,10 +75,6 @@ This project fulfills CS50's requirements including:
 - Responsive design principles
 - Bootstrap integration
 
-## License
-
-This project is licensed under the terms included in the LICENSE file.
-
 ## Note
 
 This project was originally developed using http-server (the command used in CS50 to set up the live server) but has been updated to support multiple serving options for better accessibility.
